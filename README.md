@@ -1,11 +1,11 @@
 
 <h1>Hi, I'm Raphael Cunha :brazil: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="40px" style="max-width:100%;"></h1>
 
-I'm Tech Leader Front-end, specialized in front-end development at @Luizalabs / @Novatics, 
+I'm Tech Leader, specialized in front-end development at @Luizalabs / @Novatics
 
 I'm love 💙 always trying to find better and more efficient ways to solve problems. 
 
-I love share knowledge and help people.
+I love to share knowledge and help people.
 
  <h4>Linkedin:</h4>
  <a target="_blank" href="https://www.linkedin.com/in/raphacunha/">
