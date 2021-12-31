@@ -25,8 +25,4 @@ I love to share knowledge and help people.
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
 
-![raphaelcunha GitHub Stats](https://github-readme-stats.vercel.app/api?username=raphaelcunha&show_icons=true&theme=tokyonight)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagonmiziara&langs_count=8&show_icons=true&theme=tokyonight)](https://github.com/thiagonmiziara/github-readme-stats) -->
 
-
-   
