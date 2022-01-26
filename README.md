@@ -3,7 +3,7 @@
 
 I'm Tech Leader, specialized in front-end development at @Luizalabs / @Novatics
 
-I'm love 💙 always trying to find better and more efficient ways to solve problems. 
+I'm always trying to find better and more efficient ways to solve problems. 
 
 I love to share knowledge and help people.
 
