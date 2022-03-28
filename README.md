@@ -1,7 +1,7 @@
 
 <h1>Hi, I'm Raphael Cunha :brazil: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="40px" style="max-width:100%;"></h1>
 
-I'm Tech Leader, specialized in front-end development at @Luizalabs / @Novatics
+I'm Tech Leader, specialized in front-end development at @Cobli / @Novatics
 
 I'm always trying to find better and more efficient ways to solve problems. 
 
