@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Raphael Cunha :brazil: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="40px" style="max-width:100%;"></h1>
+<h1>Hi, I'm Raphael Cunha :brazil: </h1>
 
 I'm Tech Leader, specialized in front-end development at @Cobli / @Novatics
 
