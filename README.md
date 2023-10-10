@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Raphael Cunha :brazil: </h1>
+<h1>Raphael Cunha </h1>
 
  <h4>Linkedin:</h4>
  <a target="_blank" href="https://www.linkedin.com/in/raphacunha/">
